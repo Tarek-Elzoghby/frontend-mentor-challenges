@@ -12,3 +12,12 @@
   --fw-base: 400;
   --fw-heading: 700;
 }
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
