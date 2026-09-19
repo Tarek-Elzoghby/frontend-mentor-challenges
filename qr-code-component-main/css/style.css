@@ -1,0 +1,14 @@
+:root {
+  /* colors */
+  --clr-card-bg: hsl(0, 0%, 100%);
+  --clr-main-bg: hsl(212, 45%, 89%);
+  --clr-text-mute: hsl(216, 15%, 48%);
+  --clr-text-heading: hsl(218, 44%, 22%);
+
+  /* fonts */
+  --font-family: 'Outfit', sans-serif;
+  --fs-base: 0.9375rem;      /* 15px per style guide, in rem */
+  --fs-heading: 1.25rem;
+  --fw-base: 400;
+  --fw-heading: 700;
+}
