@@ -47,6 +47,22 @@ body {
   gap: 1.5rem;
 }
 
+.card img {
+  max-width: 100%;
+  border-radius: 0.5rem;
+}
+
+.card h1 {
+  font-size: var(--fs-heading);
+  font-weight: var(--fw-heading);
+  color: var(--clr-text-heading);
+}
+
+.card p {
+  line-height: 1.5;
+}
+
+
 
 
 
