@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 - Solution: https://github.com/Tarek-Elzoghby/frontend-mentor-challenges/tree/main/qr-code-component-main
-- Live site: not deployed yet — this repo's live demos are routed through a shared hub that's still being set up
+- Live site: https://tarek-elzoghby.github.io/frontend-mentor-challenges/qr-code-component-main/
 
 ## Process & decisions
 
