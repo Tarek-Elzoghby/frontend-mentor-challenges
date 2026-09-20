@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![QR code component screenshot](/QR%20code%20component.jpg)
+![QR code component screenshot](https://github.com/Tarek-Elzoghby/frontend-mentor-challenges/blob/main/qr-code-component-main/QR%20code%20component.jpg?raw=true)
 
 ### Links
 - Solution: https://github.com/Tarek-Elzoghby/frontend-mentor-challenges/tree/main/qr-code-component-main
