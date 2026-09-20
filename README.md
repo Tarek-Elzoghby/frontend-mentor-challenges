@@ -8,7 +8,7 @@ Each challenge lives in its own folder, named after the challenge. Difficulty ti
 
 | Challenge | Tier | Stack | Live Demo | Source |
 |---|---|---|---|---|
-| _None yet — challenges are added here as they're completed._ | | | | |
+| QR code component | Newbie | HTML, CSS | Pending — `/docs` hub not live yet | [`qr-code-component-main`](./qr-code-component-main) |
 
 ## Live demos
 
