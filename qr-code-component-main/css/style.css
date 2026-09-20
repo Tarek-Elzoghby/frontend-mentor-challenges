@@ -21,3 +21,11 @@
   padding: 0;
 }
 
+body {
+  font-family: var(--font-family);
+  font-size: var(--fs-base);
+  font-weight: var(--fw-base);
+  background-color: var(--clr-main-bg);
+  color: var(--clr-text-mute);
+}
+
