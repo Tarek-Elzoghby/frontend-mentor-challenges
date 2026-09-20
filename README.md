@@ -12,7 +12,7 @@ Each challenge lives in its own folder, named after the challenge. Difficulty ti
 
 ## Live demos
 
-Completed challenges are published from a single GitHub Pages hub in this repo (`/docs`), which links out to each challenge individually. Vanilla challenges are served directly; challenges built with a framework are built and published from the same hub.
+GitHub Pages is served directly from the repo root, so each challenge's `index.html` is reachable at its own folder path — no separate hub or build step needed for vanilla challenges. Framework-based challenges will need their own build/publish approach when the time comes.
 
 ## Stack
 
