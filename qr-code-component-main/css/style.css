@@ -63,7 +63,17 @@ body {
 }
 
 
+.attribution {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
 
+.attribution p {
+  font-size: 0.75rem;
+  color: var(--clr-text-heading);
+}
 
 
 
