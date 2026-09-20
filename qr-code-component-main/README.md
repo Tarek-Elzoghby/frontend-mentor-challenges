@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![QR code component screenshot](./screenshot.jpg)
+![QR code component screenshot]("QR code component.jpg")
 
 ### Links
 - Solution: https://github.com/Tarek-Elzoghby/frontend-mentor-challenges/tree/main/qr-code-component-main
