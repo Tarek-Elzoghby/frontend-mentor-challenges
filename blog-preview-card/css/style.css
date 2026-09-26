@@ -27,7 +27,7 @@ body {
   font-weight: var(--font-weight-normal);
   color: var(--gray-500);
   background-color: var(--yellow-500);
-}   
+}
 
 main {
   display: flex;
@@ -42,7 +42,7 @@ main {
   background-color: var(--white);
   border-radius: 0.5rem;
   overflow: hidden;
-  max-width: 24rem;
+  max-width: 22rem;
   padding: 1.25rem;
   gap: 1.25rem;
   box-shadow: 0.5rem 0.5rem var(--gray-950);
@@ -60,12 +60,12 @@ main {
 }
 
 .card__badge {
-    background-color: var(--yellow-500);
-    color: var(--gray-950);
-    font-weight: var(--font-weight-bold);
-    padding: 0.25rem 0.5rem;
-    border-radius: 0.25rem;
-    align-self: flex-start;
+  background-color: var(--yellow-500);
+  color: var(--gray-950);
+  font-weight: var(--font-weight-bold);
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  align-self: flex-start;
 }
 
 .card__date {
@@ -112,4 +112,13 @@ main {
 .card__author-name {
   font-weight: var(--font-weight-bold);
   color: var(--gray-950);
+}
+
+.attribution {
+  position: absolute;
+  bottom: 1rem;
+  font-size: 0.75rem;
+  color: var(--gray-950);
+  width: 100%;
+  text-align: center;
 }
