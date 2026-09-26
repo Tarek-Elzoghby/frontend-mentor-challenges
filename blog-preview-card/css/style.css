@@ -1,0 +1,48 @@
+:root {
+  /* colors settings */
+  --gray-950: hsl(0, 0%, 7%);
+  --gray-500: hsl(0, 0%, 42%);
+  --yellow-500: hsl(47, 88%, 63%);
+  --white: hsl(0, 0%, 100%);
+
+  /* font settings */
+  --main-font-family: Figtree, sans-serif;
+  --font-size-body: 1rem;
+  --font-size-heading: 1.5rem;
+  --font-weight-normal: 500;
+  --font-weight-bold: 800;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--main-font-family);
+  font-size: var(--font-size-body);
+  font-weight: var(--font-weight-normal);
+  color: var(--gray-500);
+  background-color: var(--yellow-500);
+}   
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100svh;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--white);
+  border-radius: 0.5rem;
+  overflow: hidden;
+  max-width: 24rem;
+  padding: 1.25rem;
+  gap: 1.5rem;
+}
