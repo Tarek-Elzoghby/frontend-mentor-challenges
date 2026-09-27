@@ -9,6 +9,7 @@ Each challenge lives in its own folder, named after the challenge. Difficulty ti
 | Challenge | Tier | Stack | Live Demo | Source |
 |---|---|---|---|---|
 | QR code component | Newbie | HTML, CSS | [Live demo](https://tarek-elzoghby.github.io/frontend-mentor-challenges/qr-code-component-main/) | [`qr-code-component-main`](./qr-code-component-main) |
+| Blog preview card | Newbie | HTML, CSS | [Live demo](https://tarek-elzoghby.github.io/frontend-mentor-challenges/blog-preview-card/) | [`blog-preview-card`](./blog-preview-card) |
 
 ## Live demos
 
