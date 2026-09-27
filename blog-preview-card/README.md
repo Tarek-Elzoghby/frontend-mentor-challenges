@@ -6,12 +6,12 @@ A single blog preview card component — illustration, category badge, publish d
 
 ### Screenshot
 
-🚧 Pending — screenshot not yet added.
+![Blog preview card screenshot](./blog-preview-card.jpg)
 
 ### Links
 
-- Solution URL: [Add GitHub repo link here]
-- Live Site URL: 🚧 Not deployed yet
+- Solution URL: [github.com/Tarek-Elzoghby/frontend-mentor-challenges/tree/main/blog-preview-card](https://github.com/Tarek-Elzoghby/frontend-mentor-challenges/tree/main/blog-preview-card)
+- Live Site URL: [tarek-elzoghby.github.io/frontend-mentor-challenges/blog-preview-card](https://tarek-elzoghby.github.io/frontend-mentor-challenges/blog-preview-card/)
 
 ## Process & decisions
 
