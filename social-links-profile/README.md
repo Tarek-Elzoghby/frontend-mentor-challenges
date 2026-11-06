@@ -23,7 +23,7 @@ Each link points to its service's homepage, not to a real profile. That is delib
 
 ## Screenshot
 
-![Social links profile card on a dark page](./screenshot.jpg)
+![Social links profile card on a dark page](images/screenshot.jpg)
 
 ## Links
 
